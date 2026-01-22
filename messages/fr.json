@@ -1,0 +1,197 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "À propos",
+    "contact": "Contact",
+    "getQuote": "Obtenir un devis"
+  },
+  "hero": {
+    "title": "MAESTRO Print",
+    "subtitle": "Rendez votre marque visible",
+    "description": "Solutions professionnelles d'impression, de signalétique et de publicité",
+    "getQuote": "Obtenir un devis",
+    "viewWork": "Voir nos réalisations"
+  },
+  "services": {
+    "title": "Nos services",
+    "subtitle": "Solutions complètes d'impression et de publicité adaptées à vos besoins",
+    "viewAll": "Voir tous les services",
+    "learnMore": "En savoir plus",
+    "digitalPrinting": {
+      "title": "Impression numérique",
+      "description": "Services d'impression numérique de haute qualité pour tous vos besoins professionnels. Des cartes de visite aux brochures, nous livrons des impressions nettes et vibrantes qui font impression.",
+      "features": [
+        "Cartes de visite et papeterie",
+        "Brochures et catalogues",
+        "Dépliants et affiches",
+        "Livrets et manuels",
+        "Impression couleur haute résolution"
+      ]
+    },
+    "largeFormat": {
+      "title": "Grand format",
+      "description": "Faites une déclaration audacieuse avec nos services d'impression grand format. Parfait pour les salons professionnels, les événements et la publicité extérieure.",
+      "features": [
+        "Bannières et drapeaux",
+        "Displays pour salons",
+        "Habillage de véhicules",
+        "Peintures murales",
+        "Signalétique extérieure"
+      ]
+    },
+    "signage": {
+      "title": "Signalétique et caissons lumineux",
+      "description": "Solutions de signalétique éclairées qui attirent l'attention jour et nuit. Caissons lumineux LED et écrans professionnels pour une visibilité maximale.",
+      "features": [
+        "Caissons lumineux LED",
+        "Enseignes éclairées",
+        "Lettres cannelées",
+        "Enseignes au néon",
+        "Solutions d'éclairage sur mesure"
+      ]
+    },
+    "laserCutting": {
+      "title": "Découpe laser",
+      "description": "Services de découpe laser de précision pour une large gamme de matériaux. Parfait pour les designs complexes et les formes sur mesure.",
+      "features": [
+        "Découpe acrylique",
+        "Découpe bois",
+        "Découpe métal",
+        "Découpe tissu",
+        "Formes et designs sur mesure"
+      ]
+    },
+    "cncCutting": {
+      "title": "Découpe CNC",
+      "description": "Technologie de découpe CNC avancée pour le traitement précis et efficace des matériaux. Idéal pour les projets à grande échelle.",
+      "features": [
+        "Découpe de précision",
+        "Routage 3D",
+        "Services de gravure",
+        "Traitement multi-matériaux",
+        "Capacités grand format"
+      ]
+    },
+    "branding": {
+      "title": "Identité visuelle et branding",
+      "description": "Solutions de branding complètes pour établir et renforcer votre identité visuelle. Du concept à l'exécution.",
+      "features": [
+        "Conception de logo",
+        "Guide de style de marque",
+        "Identité d'entreprise",
+        "Design d'emballage",
+        "Mise en œuvre de la marque"
+      ]
+    }
+  },
+  "whyChoose": {
+    "title": "Pourquoi choisir",
+    "companyName": "MAESTRO Print",
+    "subtitle": "L'excellence dans chaque détail, l'engagement dans chaque projet",
+    "premium": {
+      "title": "Qualité premium",
+      "description": "Nous utilisons uniquement les meilleurs matériaux et les technologies de pointe pour livrer des résultats exceptionnels."
+    },
+    "fast": {
+      "title": "Délais rapides",
+      "description": "Des processus efficaces garantissent que vos projets sont terminés à temps, à chaque fois."
+    },
+    "expert": {
+      "title": "Équipe experte",
+      "description": "Nos professionnels qualifiés apportent des années d'expérience à chaque projet."
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Nous restons en avance avec les dernières technologies et techniques d'impression."
+    }
+  },
+  "cta": {
+    "title": "Prêt à faire",
+    "highlight": "votre marque se démarquer ?",
+    "description": "Contactez-nous aujourd'hui et donnons vie à votre vision avec des solutions d'impression premium.",
+    "getStarted": "Commencer",
+    "viewPortfolio": "Voir le portfolio"
+  },
+  "portfolio": {
+    "title": "Notre portfolio",
+    "subtitle": "Présentation de l'excellence dans chaque projet que nous livrons"
+  },
+  "about": {
+    "title": "À propos de",
+    "companyName": "MAESTRO Print",
+    "subtitle": "L'excellence dans les solutions d'impression et de publicité",
+    "story": {
+      "title": "Notre histoire",
+      "p1": "MAESTRO Print est un fournisseur de premier plan de solutions professionnelles d'impression, de signalétique et de publicité. Avec des années d'expérience dans l'industrie, nous avons bâti une réputation pour livrer une qualité exceptionnelle et un service client remarquable.",
+      "p2": "Notre installation de pointe est équipée des dernières technologies d'impression, y compris l'impression numérique, l'impression grand format, et les capacités de découpe laser et CNC. Nous travaillons avec des entreprises de toutes tailles, des startups aux entreprises établies, les aidant à créer des communications visuelles percutantes qui génèrent des résultats.",
+      "p3": "Chez MAESTRO Print, nous croyons que chaque projet est une opportunité de dépasser les attentes. Notre équipe de professionnels qualifiés combine l'expertise technique et la vision créative pour donner vie à vos idées. Que vous ayez besoin d'une simple carte de visite ou d'une installation complexe à grande échelle, nous abordons chaque projet avec le même niveau de dévouement et d'attention aux détails."
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "subtitle": "Les principes qui guident tout ce que nous faisons",
+      "excellence": {
+        "title": "Excellence",
+        "description": "Nous visons la perfection dans chaque projet, garantissant les normes de qualité les plus élevées dans tous nos travaux."
+      },
+      "passion": {
+        "title": "Passion",
+        "description": "Notre amour pour ce que nous faisons nous pousse à innover et améliorer continuellement nos services."
+      },
+      "quality": {
+        "title": "Qualité",
+        "description": "Nous utilisons des matériaux premium et des technologies de pointe pour livrer des résultats exceptionnels."
+      },
+      "partnership": {
+        "title": "Partenariat",
+        "description": "Nous construisons des relations durables avec nos clients, travaillant ensemble pour atteindre leurs objectifs."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Discutons de la façon dont nous pouvons aider à donner vie à votre vision",
+    "sendMessage": {
+      "title": "Envoyez-nous un message",
+      "description": "Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais"
+    },
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "service": "Service d'intérêt",
+      "selectService": "Sélectionner un service",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de votre projet...",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Votre message a été envoyé. Nous vous répondrons bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "findUs": {
+      "title": "Nous trouver",
+      "description": "Visitez notre emplacement ou obtenez des directions"
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "hours": "Heures d'ouverture",
+      "hoursContent": "Lun - Ven: 9h00 - 18h00\nSam: 10h00 - 16h00"
+    }
+  },
+  "footer": {
+    "description": "Solutions professionnelles d'impression, de signalétique et de publicité. Rendez votre marque visible avec une qualité premium.",
+    "services": "Services",
+    "company": "Entreprise",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "whatsapp": {
+    "message": "Bonjour, je souhaiterais obtenir un devis pour des services d'impression.",
+    "chat": "Chat"
+  }
+}
