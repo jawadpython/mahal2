@@ -59,12 +59,12 @@ export const portfolioImages = [
 ];
 
 export const serviceImages = {
-  digitalPrinting: '/images/ChatGPT Image 21 janv. 2026, 22_01_50.png',
-  largeFormat: '/images/ChatGPT Image 21 janv. 2026, 22_15_57.png',
-  signage: '/images/test.png',
-  laserCutting: '/images/ChatGPT Image 21 janv. 2026, 22_33_25.png',
-  cncCutting: '/images/ChatGPT Image 21 janv. 2026, 22_36_30.png',
-  branding: '/images/ChatGPT Image 21 janv. 2026, 22_06_12.png',
+  digitalPrinting: '/images/Impression numérique.png',
+  largeFormat: '/images/Grand format .png',
+  signage: '/images/Signalétique et caissons lumineux.png',
+  laserCutting: '/images/Découpe laser.png',
+  cncCutting: '/images/cnc.png',
+  branding: '/images/identty visual.png',
 };
 
 export const heroImage = '/images/ChatGPT Image 21 janv. 2026, 22_15_57.png';
