@@ -1,9 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Phone, Mail, MapPin, Clock } from 'lucide-react';
+import { Phone, Mail, MapPin, Clock, MessageCircle } from 'lucide-react';
 import { Locale } from '@/lib/i18n';
 import { getTranslations } from '@/lib/translations';
+import { contact } from '@/lib/contact';
 
 export default function ContactInfo({ locale }: { locale: Locale }) {
   const t = getTranslations(locale);
@@ -13,8 +14,14 @@ export default function ContactInfo({ locale }: { locale: Locale }) {
     {
       icon: Phone,
       title: t.contact.info.phone,
-      content: '+1 (234) 567-890',
-      link: 'tel:+1234567890',
+      content: contact.phone,
+      link: contact.phoneLink,
+    },
+    {
+      icon: MessageCircle,
+      title: t.contact.info.whatsapp,
+      content: contact.whatsapp,
+      link: contact.whatsappLink,
     },
     {
       icon: Mail,

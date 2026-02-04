@@ -69,3 +69,9 @@ export const serviceImages = {
 
 export const heroImage = '/images/ChatGPT Image 21 janv. 2026, 22_15_57.png';
 export const aboutImage = '/images/about.jpeg';
+
+export const teamImages = [
+  '/images/team1.jpeg',
+  '/images/team2.jpeg',
+  '/images/team3.jpeg',
+];

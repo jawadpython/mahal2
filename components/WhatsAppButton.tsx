@@ -6,7 +6,7 @@ import { Locale } from '@/lib/i18n';
 import { getTranslations } from '@/lib/translations';
 
 export default function WhatsAppButton({ locale }: { locale: Locale }) {
-  const whatsappNumber = '1234567890'; // Replace with actual WhatsApp number
+  const whatsappNumber = '212668679435';
   const t = getTranslations(locale);
   const message = encodeURIComponent(t.whatsapp.message);
   const isRTL = locale === 'ar';

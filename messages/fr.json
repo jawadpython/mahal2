@@ -147,6 +147,10 @@
         "title": "Partenariat",
         "description": "Nous construisons des relations durables avec nos clients, travaillant ensemble pour atteindre leurs objectifs."
       }
+    },
+    "team": {
+      "title": "Notre équipe d'experts",
+      "subtitle": "Des professionnels passionnés dévoués à l'excellence et à votre succès"
     }
   },
   "contact": {
@@ -175,10 +179,11 @@
     },
     "info": {
       "phone": "Téléphone",
+      "whatsapp": "WhatsApp",
       "email": "Email",
       "address": "Adresse",
       "hours": "Heures d'ouverture",
-      "hoursContent": "Lun - Ven: 9h00 - 18h00\nSam: 10h00 - 16h00"
+      "hoursContent": "Lun - Ven: 9h30 - 12h30, 14h30 - 19h00\nSamedi: 9h00 - 14h00"
     }
   },
   "footer": {

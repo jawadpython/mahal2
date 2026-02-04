@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { Phone, Mail, MapPin } from 'lucide-react';
 import { Locale } from '@/lib/i18n';
 import { getTranslations } from '@/lib/translations';
+import { contact } from '@/lib/contact';
 
 export default function Footer({ locale }: { locale: Locale }) {
   const currentYear = new Date().getFullYear();
@@ -80,10 +81,10 @@ export default function Footer({ locale }: { locale: Locale }) {
               <li className={`flex items-start ${isRTL ? 'flex-row-reverse space-x-reverse' : 'space-x-3'} space-x-3`}>
                 <Phone className="text-primary-green mt-1 flex-shrink-0" size={18} />
                 <a
-                  href="tel:+1234567890"
+                  href={contact.phoneLink}
                   className="text-gray-400 hover:text-primary-green transition-colors duration-300 text-sm"
                 >
-                  +1 (234) 567-890
+                  {contact.phone}
                 </a>
               </li>
               <li className={`flex items-start ${isRTL ? 'flex-row-reverse space-x-reverse' : 'space-x-3'} space-x-3`}>
