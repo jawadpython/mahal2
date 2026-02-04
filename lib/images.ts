@@ -64,8 +64,8 @@ export const serviceImages = {
   signage: '/images/Signalétique et caissons lumineux.png',
   laserCutting: '/images/Découpe laser.png',
   cncCutting: '/images/cnc.png',
-  branding: '/images/identty visual.png',
+  branding: '/images/Identit-visuelle-et-branding.png',
 };
 
 export const heroImage = '/images/ChatGPT Image 21 janv. 2026, 22_15_57.png';
-export const aboutImage = '/images/ChatGPT Image 21 janv. 2026, 22_17_41.png';
+export const aboutImage = '/images/about.jpeg';
